@@ -1,3 +1,4 @@
+from IPython.display import display
 import pandas as pd
 
 dataset = [
