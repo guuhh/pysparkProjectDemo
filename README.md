@@ -27,7 +27,7 @@ export JAVA_HOME="$(/usr/libexec/java_home -v 17)"
 From the project root:
 
 ```bash
-python3.11 -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 
