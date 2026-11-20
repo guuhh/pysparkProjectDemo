@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark local artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+
+# Environment variables / secrets
+.env
+
+# IDE
+.idea/
+.vscode/
