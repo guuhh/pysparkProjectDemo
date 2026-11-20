@@ -1,0 +1,5 @@
+sepal_lenght,sepal_wight,petal_lenght,petal_wight,encoded_target
+NaN,NaN,NaN,0.2,0
+NaN,3.0,1.4,0.2,0
+5.0,3.6,1.4,NaN,0
+10.0,3.0,1.0,0.3,0

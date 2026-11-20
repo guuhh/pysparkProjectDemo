@@ -2,11 +2,6 @@
 .venv/
 venv/
 
-# data files
-./data/*.csv
-./data/*.xlsx
-./data/*.json
-
 # Python cache
 __pycache__/
 *.py[cod]
