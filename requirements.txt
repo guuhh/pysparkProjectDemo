@@ -119,3 +119,4 @@ websocket-client==1.8.0
 websockets==17.4
 widgetsnbextension==4.0.16
 wsproto==1.2.0
+openpyxl
