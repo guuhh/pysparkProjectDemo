@@ -2,6 +2,9 @@
 .venv/
 venv/
 
+#ipynb files
+.ipynb_checkpoints/
+
 # Python cache
 __pycache__/
 *.py[cod]
