@@ -1,5 +1,7 @@
 pyspark==3.5.3
 pandas>=2.0
+plotly
+nbformat
 anyio==4.16.0
 appnope==1.0.0
 argon2-cffi==25.1.0
