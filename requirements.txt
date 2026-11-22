@@ -1,6 +1,6 @@
 pyspark==3.5.3
 pandas>=2.0
-plotly
+plotly>=5.0
 nbformat
 anyio==4.16.0
 appnope==1.0.0
